@@ -1,4 +1,4 @@
-# Payment.Stripe
+# Payment.Brazil.MercadoPago
 
 ### 1 - Get Key Secret and create 'AccessTokenMercadoPago' in appSettings or Parameter System
 
